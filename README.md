@@ -6,7 +6,7 @@ I am a developer and trainer specialising on IBM i and Linux.
 
 ---
 
-Join my [blog](https://github.com/andreas-prouza/blog) for technology discussions.
+Join my [blog](https://github.com/andreas-prouza/blog/issues) for technology discussions.
 
 ---
 
