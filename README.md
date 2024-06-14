@@ -1,1 +1,1 @@
-# andreas-prouza.github.io
+Visit my [blog](https://github.com/andreas-prouza/blog)
