@@ -11,6 +11,10 @@ Join my [blog](https://github.com/andreas-prouza/blog/issues) for technology dis
 ---
 
 ### My current projects
+* [Python WebAPI](https://github.com/andreas-prouza/python-webapi) on IBM i
+* [i-Releaser](https://github.com/andreas-prouza/i-releaser)  
+  Deployment tool for i
+  ![i-releaser](/docs/img/deployment.png)
 * [OBI (Object Builder for i)](https://github.com/andreas-prouza/obi)  
   A Python based build tool  
   ![overview](/docs/img/compile-overview.png)
@@ -18,7 +22,6 @@ Join my [blog](https://github.com/andreas-prouza/blog/issues) for technology dis
   Integration of OBI into your IDE  
   ![vscode](/docs/img/vscode-actions.png)  
   ![RDi](/docs/img/rdi-actions.png)
-* [Python WebAPI](https://github.com/andreas-prouza/python-webapi) on IBM i
 
 ---
 
