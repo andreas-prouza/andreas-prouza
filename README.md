@@ -11,6 +11,8 @@ Join my [blog](https://github.com/andreas-prouza/blog/issues) for technology dis
 ---
 
 ### My current projects
+* [OBI as vscode extension](https://marketplace.visualstudio.com/items?itemName=andreas-prouza.obi)  
+  ![img](https://github.com/andreas-prouza/obi-extension/raw/HEAD/asserts/img/ext/show-changes.png)
 * [Python WebAPI](https://github.com/andreas-prouza/python-webapi) on IBM i
 * [i-Releaser](https://github.com/andreas-prouza/i-releaser)  
   Deployment tool for i
